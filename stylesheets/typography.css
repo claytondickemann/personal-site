@@ -1,32 +1,32 @@
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 1em;
   font-style: normal;
   font-variant: normal;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 26.3999996185303px;
 }
 
 h1 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-variant: normal;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 26.3999996185303px;
 }
 
 h3 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 15.3999996185303px;
 }
 
 p {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -35,7 +35,7 @@ p {
 }
 
 blockquote {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 21px;
   font-style: normal;
   font-variant: normal;
@@ -44,7 +44,7 @@ blockquote {
 }
 
 pre {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-style: normal;
   font-variant: normal;
